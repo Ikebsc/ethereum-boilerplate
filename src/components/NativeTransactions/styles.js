@@ -6,7 +6,7 @@ const styles = {
   card: {
     padding: "20px",
     display: "flex",
-    background: "#FFFFFF",
+    background: "#fbfbfbb0",
     boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.25)",
     border: "2px solid #e7eaf3",
     borderRadius: "15px",

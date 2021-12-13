@@ -14,12 +14,13 @@ function MenuItems() {
         fontSize: "17px",
         fontWeight: "500",
         width: "100%",
+        backgroundColor: "rgba(251, 251, 251, 0.00)",
         justifyContent: "center",
       }}
       defaultSelectedKeys={[pathname]}
     >
       <Menu.Item key="/quickstart">
-        <NavLink to="/quickstart">🚀 Quick Start</NavLink>
+        <NavLink to="/quickstart">🚀 Iket Swap</NavLink>
       </Menu.Item>
       <Menu.Item key="/wallet">
         <NavLink to="/wallet">👛 Wallet</NavLink>

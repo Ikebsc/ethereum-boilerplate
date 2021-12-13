@@ -58,3 +58,77 @@ textarea,
 select {
   font: inherit;
 }
+.first {
+  display: flex;
+  flex-direction: row;
+}
+.hero {
+  background-image: url("../src/img/landing.jpg");
+  background-position: center;
+  background-size: cover;
+}
+/* .dark-overly {
+  background-color: #0000006c !important;
+  height: 100vh;
+  width: 100vw;
+} */
+
+.Lo {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  display: inline-flex;
+  height: 15vh;
+  width: min(50vw, 200px);
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  /* align-items: center; */
+  padding-top: 10rem;
+
+  background-color: #12121200;
+  justify-content: space-around;
+  width: 40vw;
+  margin: 1rem;
+  height: 40vh;
+}
+
+.btn {
+  height: 50px;
+  border: none;
+  outline: none;
+  color: #fff;
+  background-image: linear-gradient(
+    to top,
+    #051937,
+    #00466b,
+    #007577,
+    #00a152,
+    #b0bf00
+  );
+  box-shadow: #121212 0 0.5rem 1.2rem;
+  cursor: pointer;
+  position: relative;
+  font-weight: 500;
+  border: solid 1px #fff;
+  border-radius: 10px;
+}
+.btn:hover {
+  color: #121212;
+  box-shadow: 0 5px 15px rgba(23, 25, 155, 0.904);
+}
+.ant-tabs {
+  overflow: visible !important;
+}
+
+.ant-tabs-tab {
+  color: #fff;
+  font-weight: 500;
+}
+
+/* .ant-card {
+  background-color: rgba(5, 179, 203, 29%) !important;
+} */
