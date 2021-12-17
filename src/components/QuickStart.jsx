@@ -15,7 +15,7 @@ const styles = {
   card: {
     height: "60vh",
     backgroundColor: "rgba(5 179 203/ 29%)",
-    boxShadow: "0 0.5rem 1.2rem rgb(224 227 10 / 65%)",
+    boxShadow: "0 0.5rem 1.2rem rgb(11 11 0 / 5%)",
     border: "1px solid #e7eaf3",
     borderRadius: "0.5rem",
     display: "flex",

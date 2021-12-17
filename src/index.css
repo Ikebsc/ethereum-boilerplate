@@ -129,6 +129,6 @@ select {
   font-weight: 500;
 }
 
-/* .ant-card {
-  background-color: rgba(5, 179, 203, 29%) !important;
-} */
+.ant-card {
+  box-shadow: rgba(15, 15, 15, 0.76) !important;
+}

@@ -13,7 +13,7 @@ import { getWrappedNative } from "helpers/networks";
 const styles = {
   card: {
     width: "430px",
-    boxShadow: "0 0.5rem 1.2rem rgb(224 227 10 / 65%)",
+    boxShadow: "0 0.5rem 1.2rem rgb(0 0 0 / 100%)",
     border: "1px solid #e7eaf3",
     borderRadius: "1rem",
     fontSize: "16px",

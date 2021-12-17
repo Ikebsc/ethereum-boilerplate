@@ -22,7 +22,7 @@ import QuickStart from "components/QuickStart";
 import Contract from "components/Contract/Contract";
 import Ramper from "components/Ramper";
 import MenuItems from "./components/MenuItems";
-import myLogo from "./img/logo.png";
+import myLogo from "./img/logo.PNG";
 const { Header } = Layout;
 
 const styles = {
@@ -45,7 +45,7 @@ const styles = {
     fontFamily: "Roboto, sans-serif",
     borderBottom: "2px solid rgba(0, 0, 0, 0.06)",
     padding: "0 10px",
-    boxShadow: "0 0.5rem 1.2rem rgb(110 200 150 / 65%)",
+    boxShadow: "0 0.5rem 1.2rem rgb(22 40 30 / 88%)",
   },
   headerRight: {
     display: "flex",

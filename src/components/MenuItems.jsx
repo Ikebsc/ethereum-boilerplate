@@ -20,10 +20,10 @@ function MenuItems() {
       defaultSelectedKeys={[pathname]}
     >
       <Menu.Item key="/quickstart">
-        <NavLink to="/quickstart">🚀 Iket Swap</NavLink>
+        <NavLink to="/quickstart">🐳 Iket Swap</NavLink>
       </Menu.Item>
       <Menu.Item key="/wallet">
-        <NavLink to="/wallet">👛 Wallet</NavLink>
+        <NavLink to="/wallet"> Wallet</NavLink>
       </Menu.Item>
       <Menu.Item key="/1inch">
         <NavLink to="/1inch">🏦 Dex</NavLink>
